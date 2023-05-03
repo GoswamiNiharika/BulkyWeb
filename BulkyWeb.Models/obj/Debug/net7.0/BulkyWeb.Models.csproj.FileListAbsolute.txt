@@ -1,0 +1,12 @@
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\bin\Debug\net7.0\BulkyWeb.Models.deps.json
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\bin\Debug\net7.0\BulkyWeb.Models.dll
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\bin\Debug\net7.0\BulkyWeb.Models.pdb
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.csproj.AssemblyReference.cache
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.AssemblyInfoInputs.cache
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.AssemblyInfo.cs
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.dll
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\refint\BulkyWeb.Models.dll
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\BulkyWeb.Models.pdb
+C:\Users\niharika.goswami\source\repos\Bulky\BulkyWeb.Models\obj\Debug\net7.0\ref\BulkyWeb.Models.dll
