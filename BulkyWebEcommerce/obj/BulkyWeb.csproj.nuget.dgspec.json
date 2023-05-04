@@ -35,6 +35,9 @@
             "projectReferences": {
               "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWeb.Models\\BulkyWeb.Models.csproj": {
                 "projectPath": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWeb.Models\\BulkyWeb.Models.csproj"
+              },
+              "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
+                "projectPath": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj"
               }
             }
           }

@@ -32,3 +32,5 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWeb.Data\obj\Debug\net6.0\r
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWeb.Data\obj\Debug\net6.0\BulkyWeb.DataAccess.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWeb.Data\obj\Debug\net6.0\BulkyWeb.DataAccess.genruntimeconfig.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWeb.Data\obj\Debug\net6.0\ref\BulkyWeb.DataAccess.dll
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWeb.Data\bin\Debug\net6.0\BulkyWeb.Utility.dll
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWeb.Data\bin\Debug\net6.0\BulkyWeb.Utility.pdb

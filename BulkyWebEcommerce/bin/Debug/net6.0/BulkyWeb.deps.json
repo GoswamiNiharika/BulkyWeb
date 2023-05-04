@@ -2637,6 +2637,7 @@
       "BulkyWeb.DataAccess/1.0.0": {
         "dependencies": {
           "BulkyWeb.Models": "1.0.0",
+          "BulkyWeb.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.15",
           "Microsoft.EntityFrameworkCore": "6.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.15"
