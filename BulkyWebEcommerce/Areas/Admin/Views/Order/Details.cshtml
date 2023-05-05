@@ -229,7 +229,7 @@
                                 </li>
                             </ul>
                             @if (Model.OrderHeader.PaymentStatus == OrderStatus.PaymentStatusDelayedPayment &&
-                            Model.OrderHeader.OrderStatus == OrderStatus.StatusShipped)
+                            Model.OrderHeader.OrderStatus == OrderStatus.StatusShipped && Model.OrderHeader.OrderStatus == OrderStatus.StatusPending)
                             {
                                 <button type="submit" asp-action="Details" class="btn btn-success form-control my-1">Pay Now</button>
                             }
