@@ -109,7 +109,7 @@ namespace BulkyWeb.Areas.Customer.Controllers
             }
             if (applicationUser.CompanyId.GetValueOrDefault() == 0)
             {
-                var domain = "https://localhost:44323/";
+                var domain = Request.Scheme+ "://"+ Request.Host.Value +"/";
                 var options = new SessionCreateOptions
                 {
                     SuccessUrl = domain+ $"customer/cart/OrderConfirmation?id={ShoppingCartViewModel.OrderHeader.Id}",
