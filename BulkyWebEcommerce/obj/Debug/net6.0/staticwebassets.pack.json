@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\13a8fb00-9df5-4a80-9e29-e44a020097ce.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\13a8fb00-9df5-4a80-9e29-e44a020097ce.jpg"
+    },
+    {
       "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\1701f881-933c-4294-ac5c-f0df51c4ef02.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\1701f881-933c-4294-ac5c-f0df51c4ef02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\22672d81-2dd3-4e30-aab2-bb1b930afc1f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\22672d81-2dd3-4e30-aab2-bb1b930afc1f.jpg"
     },
     {
       "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\2d3e02d5-3e0b-40fd-ba1d-63b933411994.jpg",
@@ -17,8 +25,24 @@
       "PackagePath": "staticwebassets\\Images\\Product\\4faffb47-c4ff-4ca1-8453-04f998a28c44.jpg"
     },
     {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\53ade0eb-7ed3-4218-a426-5d96f69ca653.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\53ade0eb-7ed3-4218-a426-5d96f69ca653.jpg"
+    },
+    {
       "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\811bfcd8-1ee0-4b0d-98e1-5fb69ea3cee8.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\811bfcd8-1ee0-4b0d-98e1-5fb69ea3cee8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\86b24328-e0f7-47c0-b6e3-e7c3d1774ceb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\86b24328-e0f7-47c0-b6e3-e7c3d1774ceb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\b2730805-3037-45d4-92d1-04fcf9746a68.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\b2730805-3037-45d4-92d1-04fcf9746a68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\Product\\d8644ade-a8f1-4ae9-bc85-05142d817a1e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d8644ade-a8f1-4ae9-bc85-05142d817a1e.jpg"
     },
     {
       "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\Images\\book.png",
@@ -51,6 +75,10 @@
     {
       "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
     },
     {
       "Id": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
