@@ -15,7 +15,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
     [Authorize(Roles = SD.Role_Admin)]
     public class UserController : Controller
     {
-        private readonly ApplicationDbContext  _dbContext;
+        private readonly ApplicationDbContext _dbContext;
         public UserController(ApplicationDbContext dbContext)
         {
             _dbContext = dbContext;
@@ -33,11 +33,11 @@ namespace BulkyWeb.Areas.Admin.Controllers
             return Json(new { data = users });
         }
 
-        [HttpDelete]
-        public IActionResult Delete(int? id)
-        {            
-            return Json(new { success = true, message = "Delete Successful" });
-        }
+        //[HttpDelete]
+        //public IActionResult Delete(int? id)
+        //{            
+        //    return Json(new { success = true, message = "Delete Successful" });
+        //}
         #endregion
     }
 }

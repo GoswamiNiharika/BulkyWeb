@@ -5,8 +5,8 @@ $(document).ready(function () {
 });
 
 function loadDataTable() {
-    $('#tblData').DataTable({
-        "ajax": { url: '/admin/user/getall' },
+    dataTable = $('#tblData').DataTable({
+        "ajax": { url:'/admin/user/getall' },
         "columns": [
             { "data": "name", "width": "15%" },
             { "data": "email", "width": "15%" },
