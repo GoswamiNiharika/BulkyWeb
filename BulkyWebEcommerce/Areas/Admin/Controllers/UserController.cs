@@ -30,6 +30,21 @@ namespace BulkyWeb.Areas.Admin.Controllers
         public IActionResult GetAll()
         {
             List<ApplicationUser> users = _dbContext.ApplicationUsers.Include(u => u.Company).ToList();
+
+            var userRoles = _dbContext.UserRoles.ToList();
+            var roles = _dbContext.Roles.ToList();
+            foreach (var user in users)
+            {
+                var roleId = userRoles.FirstOrDefault(u => u.UserId == user.Id).RoleId;
+                user.Role = roles.FirstOrDefault(r => r.Id == roleId).Name;
+                if(user.Company == null)
+                {
+                    user.Company = new()
+                    {
+                        Name = ""
+                    };
+                }
+            }
             return Json(new { data = users });
         }
 
