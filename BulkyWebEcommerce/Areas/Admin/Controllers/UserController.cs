@@ -48,11 +48,26 @@ namespace BulkyWeb.Areas.Admin.Controllers
             return Json(new { data = users });
         }
 
-        //[HttpDelete]
-        //public IActionResult Delete(int? id)
-        //{            
-        //    return Json(new { success = true, message = "Delete Successful" });
-        //}
+        [HttpPost]
+        public IActionResult LockUnlock([FromBody]string id)
+        {
+            var users = _dbContext.ApplicationUsers.FirstOrDefault(u => u.Id == id);
+            if(users == null)
+            {
+                return Json(new { success = false, message = "Error while Locking/Unlocking" });
+            }
+
+            if(users.LockoutEnd != null && users.LockoutEnd > DateTime.Now)
+            {
+                users.LockoutEnd = DateTime.Now;
+            }
+            else
+            {
+                users.LockoutEnd = DateTime.Now.AddYears(1000);
+            }
+            _dbContext.SaveChanges();
+            return Json(new { success = true, message = "Delete Successful" });
+        }
         #endregion
     }
 }
