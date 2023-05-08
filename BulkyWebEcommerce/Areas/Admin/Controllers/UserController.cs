@@ -66,7 +66,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 users.LockoutEnd = DateTime.Now.AddYears(1000);
             }
             _dbContext.SaveChanges();
-            return Json(new { success = true, message = "Delete Successful" });
+            return Json(new { success = true, message = "Operation Successful" });
         }
         #endregion
     }
