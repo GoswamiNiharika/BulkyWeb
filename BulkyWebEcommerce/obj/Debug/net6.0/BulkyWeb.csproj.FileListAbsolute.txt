@@ -581,3 +581,4 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\ref\BulkyWeb.dll
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll

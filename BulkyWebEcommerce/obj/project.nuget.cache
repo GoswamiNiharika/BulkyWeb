@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fUFciikpl/IrVSdStGfD1o7wrI5MYfhl1V5+aYrbUr3dFCeEQYO9TF/5TRu9LK8lbnaflxz5LvksC0L/vxRfxQ==",
+  "dgSpecHash": "TkIkhzWTU+p2XMldluDlFc5EFUkxeHaQc3zHF4P1QTjhB8BSRd3Qhjo4DL2rirUzNwyREjYYroPUtsN/po5gdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\niharika.goswami\\source\\repos\\BulkyWeb\\BulkyWebEcommerce\\BulkyWeb.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.authentication.microsoftaccount\\6.0.9\\microsoft.aspnetcore.authentication.microsoftaccount.6.0.9.nupkg.sha512",
     "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
     "C:\\Users\\niharika.goswami\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.15\\microsoft.aspnetcore.cryptography.internal.6.0.15.nupkg.sha512",

@@ -26,6 +26,12 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
 });
 
+builder.Services.AddAuthentication().AddMicrosoftAccount(option =>
+{
+    option.ClientId = "64836b68-b2cd-4392-96f0-31435b94833b";
+    option.ClientSecret = "C6B8Q~MApH955POV2NPOD2ZYsOyHpaA2wsXIiaqA";
+});
+
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
