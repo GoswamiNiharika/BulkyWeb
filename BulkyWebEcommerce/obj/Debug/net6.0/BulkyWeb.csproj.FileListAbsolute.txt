@@ -294,15 +294,12 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.AssemblyInfoInputs.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.AssemblyInfo.cs
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.csproj.CoreCompileInputs.cache
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.RazorAssemblyInfo.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.RazorAssemblyInfo.cs
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.dll
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\refint\BulkyWeb.dll
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.json
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.Production.json
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\libman.json
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.staticwebassets.runtime.json
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.exe
@@ -567,6 +564,7 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.DataAccess.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.Utility.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.Models.pdb
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyWeb.props
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyWeb.props
@@ -578,6 +576,8 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\scopedcss\bundle\BulkyWeb.styles.css
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.csproj.CopyComplete
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.dll
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\refint\BulkyWeb.dll
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\ref\BulkyWeb.dll
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.Production.json

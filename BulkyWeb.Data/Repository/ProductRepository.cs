@@ -33,10 +33,11 @@ namespace BulkyWeb.DataAccess.Repository
                 productExist.Price100 = product.Price100;
                 productExist.Author = product.Author;
                 productExist.ISBN = product.ISBN;
-                if(product.ImageUrl!= null) 
-                {
-                    productExist.ImageUrl = product.ImageUrl;
-                }
+                productExist.ProductImages = product.ProductImages;
+                //if(product.ImageUrl!= null) 
+                //{
+                //    productExist.ImageUrl = product.ImageUrl;
+                //}
             }
         }
     }
