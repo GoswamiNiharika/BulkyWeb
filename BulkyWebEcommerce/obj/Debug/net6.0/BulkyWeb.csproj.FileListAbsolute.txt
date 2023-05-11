@@ -289,14 +289,6 @@ C:\Users\niharika.goswami\source\repos\Bulky\BulkyWebEcommerce\bin\Debug\net6.0\
 C:\Users\niharika.goswami\source\repos\Bulky\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.Utility.dll
 C:\Users\niharika.goswami\source\repos\Bulky\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.Utility.pdb
 C:\Users\niharika.goswami\source\repos\Bulky\BulkyWebEcommerce\bin\Debug\net6.0\Stripe.net.dll
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.csproj.AssemblyReference.cache
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.AssemblyInfoInputs.cache
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.AssemblyInfo.cs
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.csproj.CoreCompileInputs.cache
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.RazorAssemblyInfo.cache
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.RazorAssemblyInfo.cs
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.json
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\appsettings.Production.json
@@ -310,6 +302,7 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Humanizer.dll
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\MessagePack.dll
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -564,7 +557,15 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.DataAccess.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.Utility.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\BulkyWeb.Models.pdb
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.csproj.AssemblyReference.cache
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.AssemblyInfoInputs.cache
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.AssemblyInfo.cs
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.csproj.CoreCompileInputs.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.RazorAssemblyInfo.cache
+C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.RazorAssemblyInfo.cs
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyWeb.props
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyWeb.props
@@ -581,4 +582,3 @@ C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.pdb
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\obj\Debug\net6.0\ref\BulkyWeb.dll
-C:\Users\niharika.goswami\source\repos\BulkyWeb\BulkyWebEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
